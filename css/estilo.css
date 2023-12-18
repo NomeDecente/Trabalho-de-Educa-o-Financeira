@@ -1,0 +1,165 @@
+body{
+
+}
+footer{
+	margin-top: 24vh;
+	background-color: rgba(54, 151, 49, 1);
+	padding: 7px;
+	text-align: center;
+}
+.pai{
+}
+.logo-HQ{
+	background-color: green;
+	width: 100%;
+	height: 14vh;
+	display: flex;
+    justify-content: space-between;
+}
+.Tlogo{
+	display: flex;
+	align-items: center;
+}
+.logo{
+	margin-left: 1vh;
+}
+.Q-HQ{
+	padding: 1vh;
+	background-color: lightgrey;
+	align-self: flex-end;
+	margin-right: 2vh;
+}
+.brHQ{
+	margin-right: 6vh;
+}
+.disflex{
+	display: flex;
+}
+.O-quadros{
+	width: 63vh;
+	height: 50vh;
+}
+.quadrados{
+	width: 63vh;
+	height: 50vh;
+	display: flex;
+	flex-wrap: wrap;
+}
+.amarelo{
+	background-color: yellow;
+	width: 10vh;
+	height: 10vh;
+	margin-left: 1vh;
+}
+.verde{
+	background-color: lightgreen;
+	width: 10vh;
+	height: 10vh;
+	margin-left: 5vh;
+}
+.azul{
+	background-color: blue;
+	width: 10vh;
+	height: 10vh;
+	margin-left: 1vh;
+}
+.rosa{
+	background-color: deeppink;
+	width: 10vh;
+	height: 10vh;
+	margin-left: 13vh;
+}
+.Tprojeto{
+	width: 100vh;
+	height: 50vh;
+}
+.Tsaibamais{
+	margin-left: 2vh;
+	width: 60vh;
+	height: 50vh;
+	margin-top: 5vh;
+	text-align: center;
+}
+#tamanho{
+	width: 47vh;
+	height: 30vh;
+}
+.Tp{
+	font-size: 3vh;
+}
+.Th{
+	font-size: 4vh;
+}
+p{
+	font-family: sans-serif;
+}
+h1{
+	font-family: sans-serif;
+}
+.Q2-HQ{
+	width: 10%;
+	padding: 2vh;
+	background-color: lightgrey;
+	align-self: flex-end;
+	margin-left: 1000px;
+}
+.qpai{
+background-color: white
+;
+width: 100%;
+height: 50vh;
+display: flex;
+flex-wrap: wrap;
+
+}
+.filho3{
+
+border-style: solid;
+border-color: black;
+}
+.filho4{
+	border-style: solid;
+border-color: black;
+}
+.filho5{
+	border-style: solid;
+border-color: black;
+}
+.filho6{
+	border-style: solid;
+border-color: black;
+}
+.filho7{
+	border-style: solid;
+border-color: black;
+}
+.filho8{
+	border-style: solid;
+border-color: black;
+}
+.filho9{
+
+	border-style: solid;
+border-color: black;
+}
+.filho10{	
+	border-style: solid;
+border-color: black;
+}
+.filho11{
+
+	border-style: solid;
+border-color: black;
+}
+.filho12{
+	border-style: solid;
+border-color: black;
+}
+.filho13{	
+	border-style: solid;
+border-color: black;
+}
+.filho14{ 
+	border-style: solid;
+border-color: black;
+}
